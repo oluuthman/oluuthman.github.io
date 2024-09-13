@@ -1,0 +1,111 @@
+body {
+    padding: 5px;
+    font-family: "Baguet Script";
+    font-size: 2vw;
+    font-size: 3vh
+    
+}
+
+body > header {
+    color: blueviolet;
+    display: flex;
+    background-color: rgb(205, 187, 222);
+}
+
+body > header > h1 {
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: "Fredoca One" "sans-serif";
+    font-size: 150%;
+    background-color: rgb(205, 187, 222);
+    text-shadow:
+    1px 1.8px 0.5px black,
+    -1px 1.8px 0.5px black,
+    1px 1.8px 0.5px black,
+    -1px 1.8px 0.5px black;
+}
+
+p {
+    font-size: 0.9em;
+}
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+#nav-ul { 
+    display: flex;
+}
+
+#nav-ul > li {
+    padding: 3px;
+    margin: 5px;
+}
+
+.navbutton {
+    color: blueviolet;
+    text-decoration: none;
+    text-align: center;
+    padding: 12px;
+    border-radius: 10%;
+}
+
+#nav-ul {
+    display: flex;
+    color: blueviolet;
+    background-color: rgb(205, 187, 222);
+    border-radius: 15%;
+}
+
+#nav-ul > li {
+    padding: 2px;
+    margin: 5px;
+}
+
+body > main article {
+    width: 70%;
+    margin: auto;
+}
+
+#main-content {
+    display: flex;
+    justify-content: space-around;
+    font-size: small;
+}
+
+#main-content div {
+    width: 70%;
+}
+
+form {
+    text-align: center;
+    font-size: small;
+}
+
+
+<ul>
+    <li><a href=""></a>China</li>
+    <li><a href=""></a>Egypt</li>
+    <li><a href=""></a>Germany</li>
+    <li><a href=""></a>Ghana</li>
+    <li><a href=""></a>India</li>
+    <li><a href=""></a>Italy</li>
+    <li><a href=""></a>Jamaica</li>
+    <li><a href=""></a>Japan</li>
+    <li><a href=""></a>Kenya</li>
+    <li><a href=""></a>Mexico</li>
+    <li><a href=""></a>Morocco</li>
+    <li><a href=""></a>Nigeria</li>
+    <li><a href=""></a>Oman</li>
+    <li><a href=""></a>Pakistan</li>
+    <li><a href=""></a>Somalia</li>
+    <li><a href=""></a>South Africa</li>
+    <li><a href=""></a>South Korea</li>
+    <li><a href=""></a>Turkey</li>
+    <li><a href=""></a>Vietnam</li>
+    <li><a href=""></a>Yemen</li>
+</ul>
